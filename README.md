@@ -1,4 +1,4 @@
-# La communauté Zen
+# La communauté Open Agile
 
 Nous sommes un groupe d'enthousiastes du monde de l'open source et de la philosophie agile de développement logiciel.
 
